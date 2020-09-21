@@ -7,7 +7,7 @@
 #C1 {
     height: 40%;
     width: 20%;
-    background-image: url(images/division-sign_2797.png);
+    background-image: url(division-sign_2797.png);
     position: absolute;
     background-size: cover;
     opacity: 0.2;
@@ -19,7 +19,7 @@
 #C2 {
     height: 40%;
     width: 20%;
-    background-image: url(images/plus-sign_2795.png);
+    background-image: url(plus-sign_2795.png);
     position: absolute;
     background-size: cover;
     opacity: 0.2;
@@ -31,7 +31,7 @@
 #C3 {
     height: 40%;
     width: 20%;
-    background-image: url(images/minus-sign_2796.png);
+    background-image: url(minus-sign_2796.png);
     position: absolute;
     background-size: cover;
     opacity: 0.2;
@@ -43,7 +43,7 @@
 #C4 {
     height: 40%;
     width: 20%;
-    background-image: url(images/heavy-multiplication-x_2716.png);
+    background-image: url(heavy-multiplication-x_2716.png);
     position: absolute;
     background-size: cover;
     opacity: 0.2;
